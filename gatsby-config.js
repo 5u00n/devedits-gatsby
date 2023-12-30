@@ -9,4 +9,9 @@
  */
 module.exports = {
   plugins: [],
+  siteMetadata:{
+    title:'Devedits Gatsby',
+    description:'react gatsby portfolio',
+    copyright:'devedist LLP'
+  }
 }
